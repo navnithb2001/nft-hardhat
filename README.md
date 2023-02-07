@@ -35,7 +35,7 @@ We go through creating 3 different kinds of NFTs.
 
 ```
 git clone https://github.com/navnithb2001/nft-hardhat
-cd hardhat-nft-fcc
+cd nft-hardhat
 yarn
 ```
 
